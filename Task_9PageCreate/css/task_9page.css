@@ -1,0 +1,44 @@
+.logo{
+background-color: #ff8080;
+    color: white;
+    border: inset;
+    border-color: ;
+    border-radius: 1;
+    padding: 10px 10px 10px 10px;
+    margin: 15px 15px 15px 15px;
+    font-size: 50px;
+    height: 70px;
+    widows: 100px;
+    text-align: center;
+}
+.pic{
+	float: right;
+}
+
+#solid
+{
+	text-align: center;
+    background-color: antiquewhite;
+    color: white;
+    border: inset;
+    border-color: ;
+    border-radius: 1;
+    padding: 10px 10px 10px 10px;
+    margin: 15px 15px 15px 15px;
+    font-size: 50px;
+}
+
+.right{
+float: right;
+}
+#footer{
+	background-color: #00cccc;
+    color: white;
+    border: inset;
+    border-color: ;
+    border-radius: 1;
+    padding: 10px 10px 10px 10px;
+    margin: 15px 15px 15px 15px;
+    font-size: 20px;
+    font-color:black;
+}

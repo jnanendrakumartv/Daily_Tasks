@@ -1,0 +1,39 @@
+#solid
+{
+    background-color: antiquewhite;
+    color: white;
+    border: inset;
+    border-color: ;
+    border-radius: 12;
+    padding: 10px 10px 10px 10px;
+    margin: 15px 15px 15px 15px;
+}
+
+#home{
+ padding-right: 10px   
+}
+
+#footer{
+    border:inset;
+    align-content: center;
+    margin-top: 300px;
+    padding-bottom: 10px;
+}
+#image{
+    padding-left: 850px;
+}
+body{
+    background-color: azure;
+}
+#bodyimage{
+    border: solid;
+    border-width: 1px;
+    margin-left: 10px;
+}
+#bodyp{
+    border:solid;
+    border-width: 1px;
+    margin-left: 100px;
+    padding: 10px 10px 10px 10px;
+    margin-top:100px ;
+}

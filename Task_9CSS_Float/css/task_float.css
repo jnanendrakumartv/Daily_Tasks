@@ -1,0 +1,31 @@
+span {
+	
+	padding: 80px 50px;
+   border: solid #4CAF50;
+	text-align: center;
+}
+b {
+	
+
+	height: 100px;
+	width: 100px;
+	padding: 80px 50px;
+  border:  solid #4CAF50;
+}
+c {
+
+	height: 100px;
+	width: 100px;
+	padding: 80px 50px;
+
+  border: solid #4CAF50;
+}
+
+.main{
+
+	-color:#00111a; 
+   --height: 30px; 
+   --height2: 30px; 
+   --width: 250px; 
+   --width2: 900px;  
+}
