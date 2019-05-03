@@ -1,0 +1,49 @@
+	#second { 
+   height: 30px; 
+   background-color: #e6e6e6; 
+   border: 1px solid; 
+ } 
+ span { 
+   padding: 30px; 
+   font-size: 25px; 
+
+
+    #solid{
+    background-color: antiquewhite;
+    color: white;
+    border: inset;
+    border-color: ;
+    border-radius: 12;
+    padding: 10px 10px 10px 10px;
+    margin: 25px 25px 25px 25px;
+}
+#home{
+    padding-right: 10px;
+}
+
+#image{
+    padding-left: 850px;
+}
+#imgf{
+    padding-left: 550px;
+}
+body{
+    background-color: azure;
+}
+#form{
+    border: solid;
+}
+footer { 
+    
+   font-size: 20px; 
+   margin-left: 600px; 
+   float: bottom; 
+ } 
+ .foot { 
+   margin-top: 5px; 
+   background-color: black; 
+   color: white; 
+ } 
+ a:hover { 
+   background-color: red; 
+ } 
