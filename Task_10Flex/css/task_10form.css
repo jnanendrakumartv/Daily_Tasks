@@ -1,0 +1,35 @@
+.main{	
+background: #cc33ff;
+margin-left: 300px;
+}
+.center{
+text-align:center;
+text-color:white;
+}
+.body{
+width: 270px;l
+height: 10px;
+padding-top: 10px;
+padding-bottom: 30px;
+padding-right: 10px;
+padding-left: 10px;
+margin-left: 10px;
+
+background: #f5eef7;
+align-content: center;
+text-decoration-color: white;
+}
+.image{
+	height: 50%;
+	width: 50p%;	
+}
+.img{
+	padding-left: 100px;
+}
+.foot{
+text-align: center;
+font-color:white;
+}
+a:hover {
+  background-color: #b3b3ff;
+}
