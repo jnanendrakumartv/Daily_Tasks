@@ -1,0 +1,22 @@
+.first{
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px 100px 100px 100px 100px ;
+    grid-template-rows: 100px 100px;
+    grid-gap: 10px;
+}
+              
+        .first > div { 
+        
+            background-color: #ffdd00; 
+            padding: 15px 0 0 25px;
+            font-weight: bold;
+            box-shadow: 0PX 5PX #F28304;
+            font-size: 60px; 
+            border-radius: 10PX;
+
+        } 
+        .next{
+            grid-area: 1/6/1/9;
+            background-color: #ffa31a;
+        }
+        

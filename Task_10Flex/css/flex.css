@@ -1,0 +1,13 @@
+.flex {
+  display: flex;
+  background-color: DodgerBlue;
+  flex-direction:row-reverse;
+}
+
+.flex > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+  
+}

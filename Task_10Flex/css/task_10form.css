@@ -1,6 +1,7 @@
 .main{	
 background: #cc33ff;
 margin-left: 300px;
+
 }
 .center{
 text-align:center;
@@ -10,19 +11,18 @@ text-color:white;
 width: 270px;l
 height: 10px;
 padding-top: 10px;
-padding-bottom: 30px;
+padding-bottom: 20px;
 padding-right: 10px;
 padding-left: 10px;
-margin-left: 10px;
+margin-left: 140px;
+margin-top: 90px;
+
 
 background: #f5eef7;
 align-content: center;
 text-decoration-color: white;
 }
-.image{
-	height: 50%;
-	width: 50p%;	
-}
+
 .img{
 	padding-left: 100px;
 }

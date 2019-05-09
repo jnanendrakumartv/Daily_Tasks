@@ -1,0 +1,27 @@
+.main{
+
+width: 600px;
+  height: 50px;
+  display: flex;
+margin: 5px;
+padding: 2px;
+text-align: center;
+
+}
+
+
+.home{
+flex-grow: 1;
+display: flex;
+}
+
+.search{
+	display: flex;
+}
+
+.pic{
+display: flex;
+flex-basis: 200px;
+
+
+}
