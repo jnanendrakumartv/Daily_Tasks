@@ -1,0 +1,52 @@
+.main {
+	display: inline-grid;
+	grid-template-columns: 90px 90px 90px 90px 90px 90px;
+	grid-template-rows: 55px 55px 80px 55px 55px 80px;
+	grid-gap: 20px;
+}
+.main > div{
+	
+}
+.one {
+	grid-column: 1/span 3;
+	grid-row: 1/span 2;
+	border: solid 10px rgb(186, 180, 150);
+	background-image: repeating-linear-gradient(120deg, #0099ff,#e6ccb3,#d3d3af,#e6ccb3,#d3d3af,#e6ccb3,#d3d3af,#e6ccb3,#d3d3af,#e6ccb3,#d3d3af,#e6ccb3,#d3d3af,#e6ccb3,#d3d3af,#e6ccb3);
+	z-index: -1;
+}
+.two {
+	grid-column-start: 2;
+	grid-row: 2/span 4;
+	background-color: rgb(186, 180, 150);
+	z-index: 0;
+}
+.three {
+	grid-column: 3/span 4;
+	grid-row: 2/span 3;
+	background-color: rgba(164, 252, 0, 0.8);
+	z-index: 2;
+}
+.four {
+	grid-column: 4/span 3;
+	grid-row: 5/span 2;
+	border: solid 10px rgba(164, 252, 0, 0.7);
+	z-index: 3;
+}
+.five {
+	grid-column: 5/span 2;
+	grid-row: 1/span 5;
+	border: solid 10px rgba(215, 96, 242 ,0.6);
+	z-index: 2;
+}
+.six {
+	grid-column: 1/span 3;
+	grid-row: 4/span 3;
+	background-color: rgba(215, 96, 242 ,0.6);
+	z-index: 1;
+}
+p {
+	font-size: 30px;
+	padding-left: 25px;
+	padding-top: 2px;
+}
+
